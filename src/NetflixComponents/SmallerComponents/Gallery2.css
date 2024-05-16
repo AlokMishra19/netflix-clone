@@ -1,0 +1,13 @@
+#child{
+    content: url(../../../public/Slumberland-574476797-large.jpg);
+    height: 450px;
+    height: 450px;
+    margin-right: 25%;
+    margin-top: 3%;
+    margin-left: 7%;
+    box-shadow: 5px 10px 10px lightcoral;
+    border-radius: 10px;
+} 
+#gallery2text{
+    margin-top: 8%;
+}

@@ -1,0 +1,18 @@
+#gallery3image{
+    content: url(../../../public/stranger-things-netflix-hd-wallpaper-preview.jpg);
+    height: 450px;
+    width: 550px;
+    margin-top: 2%;
+   
+    border-radius: 7px;
+}
+
+#parent{
+    display: flex;
+}
+
+#children{
+    margin-right: 16%;
+    margin-top: 8%;
+    margin-left: 6%;
+}

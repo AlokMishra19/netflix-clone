@@ -1,0 +1,18 @@
+#child4{
+    content: url(../../../public/chilrensection.png);
+    margin-right: 22%;
+    margin-top: 5%;
+    margin-left: 5%;
+    height:400px;
+    width: 400px;
+  
+    border-radius: 10px;
+}
+
+#parent4{
+    display: flex;
+}
+
+#gallery4text{
+   margin-top: 12%;
+}

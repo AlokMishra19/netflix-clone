@@ -1,0 +1,17 @@
+#gallery1image{
+content: url("../../../public/mobile-0819.jpg");
+margin-top: 4%;
+
+border-radius: 10px;
+}
+
+.parent{
+    display: flex;
+   
+}
+
+.child{
+    margin-right: 10%;
+   margin-top: 8%;
+   margin-left: 15%;
+}
